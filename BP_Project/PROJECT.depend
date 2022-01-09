@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1578216021 source:c:\users\sama\desktop\project_term1\project\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+
+1578499800 source:c:\users\sama\desktop\project\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+
+1579914795 source:c:\users\sama\desktop\project_tamam\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+
+1579992563 source:c:\users\sama\desktop\project_tamam\resources.rc
+
+1580041285 source:c:\users\sama\desktop\project_term1\project_tamam\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+
+1580056966 source:c:\users\sama\desktop\project_term1\project_tamam\resources.rc
+
